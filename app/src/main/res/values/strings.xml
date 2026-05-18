@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:ignore="MissingTranslation"
     >
-    <string name="app_name_display">Calculator</string>
+    <string name="app_name_display">NexVora Smart Calculator</string>
 
     <!-- Numbers -->
     <string name="zero" translatable="false">0</string>
