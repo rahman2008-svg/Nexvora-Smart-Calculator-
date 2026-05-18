@@ -132,15 +132,15 @@
     <string name="about_help_translate">Translate</string>
     <string name="about_help_rate">Rate this app</string>
 
-    <string name="about_social_discord" translatable="false">Discord</string>
-    <string name="about_social_github" translatable="false">GitHub</string>
+    <string name="about_social_discord" translatable="false">NexVora Discord</string>
+    <string name="about_social_github" translatable="false">Nexvora GitHub</string>
 
-    <string name="about_other_license">License GPL 3.0</string>
+    <string name="about_other_license">Open Source License</string>
     <string name="about_other_privacy_policy">Privacy policy</string>
-    <string name="about_other_version">Version</string>
+    <string name="about_other_version">Apps Version</string>
 
-    <string name="about_easter_egg">Thanks for using OpenCalc ❤️</string>
-    <string name="about_made_in_france">Made with ❤️ in France</string>
+    <string name="about_easter_egg">Thanks for using NexVora Smart Calculator ❤️</string>
+    <string name="about_made_in_france">Made with 💖 Abdur Rahman</string>
 
     <!-- Theme choices -->
     <string name="theme_material_you" translatable="false">Material You</string>
@@ -156,16 +156,16 @@
     <string name="value_too_large">Value too large</string>
 
     <!-- Clipboard labels -->
-    <string name="copied_result">Copied result</string>
+    <string name="copied_result">Result copied</string>
     <string name="copied_history_calculation">Copied history calculation</string>
-    <string name="copied_history_result">Copied history result</string>
+    <string name="copied_history_result">history result copied</string>
 
     <!-- Others -->
     <string name="value_copied">Copied</string>
     <string name="infinity">Infinity</string>
     <string name="title_activity_settings" translatable="false">SettingsActivity</string>
     <string name="require_real_number">Real number required</string>
-    <string name="settings_auto_save_calculation_without_equal_button">Automatically save calculations</string>
+    <string name="settings_auto_save_calculation_without_equal_button">Auto save calculations</string>
     <string name="settings_auto_save_calculation_without_equal_button_desc">Automatically save calculations in history without needing to click the equal button</string>
     <string name="menu_donate">Support us</string>
     <string name="about_dialog_donation_close">Close</string>
